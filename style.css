@@ -5,7 +5,10 @@ body {
 p{
     text-align:center;
 }
-
+#brincadeira {
+    color: blue;
+    text-align:left;
+}
 em strong{ 
      color:rgb(250, 2, 2)
 }
